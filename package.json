@@ -1,0 +1,27 @@
+{
+  "name": "express-api-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielSantosLima/express-api-template.git"
+  },
+  "author": "Gabriel Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielSantosLima/express-api-template/issues"
+  },
+  "homepage": "https://github.com/gabrielSantosLima/express-api-template#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
